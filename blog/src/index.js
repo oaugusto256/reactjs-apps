@@ -8,6 +8,7 @@ import promise from 'redux-promise';
 
 import 'bootstrap/dist/css/bootstrap.css';
 import 'bootstrap/dist/css/bootstrap-theme.css';
+import './assets/css/style.css';
 
 import reducers from './reducers';
 import PostsIndex from './components/posts_index';
